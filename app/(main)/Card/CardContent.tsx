@@ -322,7 +322,7 @@ export default function CardContent({
               );
             })
           ) : (
-            <div>📭</div>
+            <div>🔗</div>
           )}
         </div>
       </div>
