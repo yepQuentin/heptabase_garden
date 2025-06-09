@@ -6,7 +6,7 @@ export const CONFIG = {
   // heptabase whiteboard id
   whiteboardId:
     '5e9b876d5fad8b3147a92e5367aab601260f5632f2378e275f4cb53d23555a8e',
-  coverImage: 'https://3aed3bd.webp.li/heptabase_coverimage.png',
+  coverImage: 'https://cloudflare-imgbed-66b.pages.dev/file/1749483548876_Uriinsight.png',
 };
 
 export const SEO = {
