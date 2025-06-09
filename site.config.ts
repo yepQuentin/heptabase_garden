@@ -5,7 +5,7 @@ export const CONFIG = {
   description: 'Uriinsight',
   // heptabase whiteboard id
   whiteboardId:
-    'https://app.heptabase.com/w/5e9b876d5fad8b3147a92e5367aab601260f5632f2378e275f4cb53d23555a8e',
+    '5e9b876d5fad8b3147a92e5367aab601260f5632f2378e275f4cb53d23555a8e',
   coverImage: 'https://3aed3bd.webp.li/heptabase_coverimage.png',
 };
 
