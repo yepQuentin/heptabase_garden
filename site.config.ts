@@ -1,11 +1,11 @@
 export const CONFIG = {
   // site title
-  title: '数字花园🌿',
+  title: 'Uriinsight',
   // site description
-  description: 'Use heptabase to build your digital garden',
+  description: "Urii's insights",
   // heptabase whiteboard id
   whiteboardId:
-    '641ea3e118cf2f1d33cda32e8580f77efa59094fc805b326c9fc8c6dd16489ee',
+    'https://app.heptabase.com/w/5e9b876d5fad8b3147a92e5367aab601260f5632f2378e275f4cb53d23555a8e',
   coverImage: 'https://3aed3bd.webp.li/heptabase_coverimage.png',
 };
 
@@ -17,20 +17,16 @@ export const SEO = {
 
 export const Nav = [
   {
-    label: 'Article',
-    pageId: '21ef0fae-49b6-4a18-835b-3577bfee7a5d',
+    label: 'Projects',
+    pageId: '55f110b3-45cd-468f-8f31-2c1e1e5ed08b',
   },
   {
-    label: 'Weekly',
-    pageId: 'df499978-b8aa-41b7-8bc0-0b3f2446667b',
+    label: 'Areas',
+    pageId: '36c864e1-f2dd-4647-bb08-c77b03ed2746',
   },
   {
-    label: 'Media',
-    pageId: '566e17b0-9f65-4ba8-8905-7acf2f1f112f',
-  },
-  {
-    label: 'Run',
-    pageId: 'https://run.yanglele.cc',
+    label: 'Resources',
+    pageId: '3043629e-b1a4-440d-82aa-e24504f7f9b6',
   },
 ];
 
