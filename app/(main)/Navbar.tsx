@@ -2,13 +2,13 @@
 import { ThemeToggle } from "@/components/ThemeToggle";
 import { Button } from "@/components/ui/button";
 import {
-  DropdownMenu,
-  DropdownMenuContent,
-  DropdownMenuItem,
-  DropdownMenuTrigger,
+    DropdownMenu,
+    DropdownMenuContent,
+    DropdownMenuItem,
+    DropdownMenuTrigger,
 } from "@/components/ui/dropdown-menu";
 import { Nav } from "@/site.config";
-import { Bubbles, Menu } from "lucide-react";
+import { Menu } from "lucide-react";
 
 function NavContent() {
   const handleNavClick = (pageId: string) => {
@@ -75,7 +75,7 @@ export default function Navbar() {
   return (
     <nav className="sticky top-0 z-50 flex items-center justify-between border-foreground/10 border-b px-4 py-2">
       <div onClick={handleLogoClick}>
-        <Bubbles className="cursor-pointer transition-all duration-500 hover:text-green-500 dark:invert" />
+        <bubbles className="cursor-pointer transition-all duration-500 hover:text-green-500 dark:invert" />
       </div>
       <div className="flex items-center gap-2">
         <ThemeToggle />
