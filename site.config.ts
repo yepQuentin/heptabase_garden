@@ -17,12 +17,12 @@ export const SEO = {
 
 export const Nav = [
   {
-    label: 'Projects',
-    pageId: '55f110b3-45cd-468f-8f31-2c1e1e5ed08b',
-  },
-  {
     label: 'Areas',
     pageId: '36c864e1-f2dd-4647-bb08-c77b03ed2746',
+  },
+  {
+    label: 'Projects',
+    pageId: '55f110b3-45cd-468f-8f31-2c1e1e5ed08b',
   },
   {
     label: 'Resources',
