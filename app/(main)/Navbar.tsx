@@ -8,7 +8,7 @@ import {
   DropdownMenuTrigger,
 } from "@/components/ui/dropdown-menu";
 import { Nav } from "@/site.config";
-import { Bubbles, Menu } from "lucide-react/icons";
+import { Bubbles, Menu } from "lucide-react";
 
 function NavContent() {
   const handleNavClick = (pageId: string) => {
